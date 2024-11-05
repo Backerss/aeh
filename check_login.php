@@ -18,23 +18,19 @@ foreach ($result_mail as $row){
 
 }  
     if(password_verify($password, $row_password))
-   
     {
-        echo $row["users_id"];
-        $_SESSION["users_id"] = $row["users_id"];
+            $_SESSION["users_id"] = $row["users_id"];
             echo"เข้าสู่ระบบสำเร็จ";
             header("Location: index.php");
         } 
-        else{ 
+    else{ 
             echo "กรุณากรอกข้อมูลให้ถูกต้อง";
-        }
-
-
-}
-    else{
-        echo "กรุณาตรวจสอบอีเมลของท่าน";
-    
     }
+}
+else{
+    echo "กรุณาตรวจสอบอีเมลของท่าน";
+    
+}
 
 
 

@@ -35,12 +35,16 @@ VALUES ('$prefix', '$firstName', '$lastName',
 '$gender', '$studentId', '$phone', 
 '$address', NOW())";
 
-    if($conn ->query($sql)===TRUE){
-   echo "บันทึกสำเร็จ";    
-    }else{
+if($conn ->query($sql)===TRUE){
+   echo "บันทึกสำเร็จ";  
+   //refresh หน้าเว็บไป index.php 3วิ
+   header("refresh:3; url=index.php");   
+}else{
     echo "บันทึกข้อมูลมีปัญหากรุณาติดต่อ Admin";
-    }
+    header("refresh:3; url=regis.php");
+}
 }else{
     echo "E-mail ที่ใช้ในการสมัครซ้ำกับข้อมูลที่มี";
+    header("refresh:3; url=regis.php");
 }
 ?>

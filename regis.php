@@ -12,7 +12,8 @@
 
 <body>
     <div class="container mt-5">
-        <h1>การสมัครสมาชิก</h1> 
+        <h1>การสมัครสมาชิก</h1>
+        
         <form action="save_regis.php" method="post">
             <div class="row mb-3">
                 <label for="prefix" class="col-sm-2 col-form-label">คำนำหน้า</label>
@@ -85,11 +86,13 @@
                 </div>
             </div>
             <div class="row mb-3">
-                <div class="col-sm-10 offset-sm-2">
+                <div class="col-sm-2 offset-sm-2">
                     <button type="submit" class="btn btn-primary">Submit</button>
                 </div>
             </div>
         </form>
+
+
     </div>
 
     <!-- Bootstrap JS -->

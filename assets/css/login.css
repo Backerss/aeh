@@ -71,13 +71,16 @@ button:hover{
 	transform: scale(.6);
     font-size: 100px;
 }
+.signup-link {
+	display: block;
+	margin-top: 20px;
+	text-align: center;
+	color: #573b8a;
+	font-weight: bold;
+	text-decoration: none;
+	transition: color 0.2s ease-in;
+}
 
-#chk:checked ~ .login{
-	transform: translateY(-500px);
-}
-#chk:checked ~ .login label{
-	transform: scale(1);	
-}
-#chk:checked ~ .signup label{
-	transform: scale(.6);
+.signup-link:hover {
+	color: #ff00ae;
 }

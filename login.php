@@ -15,6 +15,7 @@
 					<input type="email" name="email" placeholder="Email" required="">
 					<input type="password" name="password" placeholder="Password" required="">
 					<button>Login</button>
+					<a href="regis.php" class="signup-link">Sign up</a> <!-- ลิงก์สมัครสมาชิก -->
 				</form>
 			</div>
 	</div>

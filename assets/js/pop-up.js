@@ -35,7 +35,15 @@ $(document).ready(function() {
       
       alert('ขอบคุณที่ทำแบบสอบถามของเรา');
       
-
+      $.ajax({
+            url: 'insertQuiz.php',
+            type: 'post',
+            data: {result},
+            success: function(response) {
+                console.log(response);
+            }
+            
+      });
 
   }
 
