@@ -29,7 +29,10 @@
         }
     ?>
     <ul class="nav">
-        <li><a href="#"><?php echo $row["users_name"] ?></a></li>
+        <div class="profile-container">
+                <img src="assets/images/person.png" alt="Logo" class="profile-image">
+                <a href="#"><?php echo $row["users_name"]; ?></a>
+        </div>
         <li><a href="logout.php">Logout</a></li>
     </ul>
 <?php } ?>

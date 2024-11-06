@@ -184,3 +184,32 @@
   z-index: 1;
   height: 100%;
   width: 100%; }
+
+
+  .profile-container {
+    display: flex;
+    align-items: center;
+}
+
+.profile-image {
+    width: 30px;
+    height: 30px;
+    margin-right: 8px; /* เพิ่มระยะห่างระหว่างรูปภาพและชื่อ */
+    border-radius: 50%; /* ปรับให้เป็นวงกลม */
+    object-fit: cover; /* ปรับภาพให้เต็ม */
+}
+
+.nav li {
+    list-style: none;
+}
+
+.nav li a {
+    text-decoration: none;
+    color: #000;
+    margin-left: 10px;
+}
+
+.nav a{
+    text-decoration: none;
+    color: white;
+}
