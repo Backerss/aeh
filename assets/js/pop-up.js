@@ -41,6 +41,9 @@ $(document).ready(function() {
             data: {result},
             success: function(response) {
                 console.log(response);
+
+                //redirect to thank you page
+                window.location.href = "index.php";
             }
             
       });
