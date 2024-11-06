@@ -192,8 +192,8 @@
 }
 
 .profile-image {
-    width: 30px;
-    height: 30px;
+    width: 45px;
+    height: 45px;
     margin-right: 8px; /* เพิ่มระยะห่างระหว่างรูปภาพและชื่อ */
     border-radius: 50%; /* ปรับให้เป็นวงกลม */
     object-fit: cover; /* ปรับภาพให้เต็ม */
