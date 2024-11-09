@@ -104,8 +104,7 @@
           <div class="row">
             <div class="col-lg-12">
               <div class="section-heading">
-                <h2>We Provide <em>Different Services</em> &amp;
-                  <span>Features</span> For Your Agency
+                <h2><em>วง Cornboi</em> 
                 </h2>
                 <div class="line-dec"></div>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doers eiusmod.</p>
@@ -114,7 +113,7 @@
             <div class="col-lg-6 col-sm-6">
               <div class="service-item">
                 <div class="icon">
-                  <img src="assets/images/services-01.jpg" alt="discover SEO" class="templatemo-feature">
+                  <img src="assets/images/m1.png" alt="discover SEO" class="templatemo-feature">
                 </div>
                 <h4>Discover More on Latest SEO Trends</h4>
               </div>
