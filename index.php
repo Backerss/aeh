@@ -107,7 +107,6 @@
                 <h2><em>วง Cornboi</em> 
                 </h2>
                 <div class="line-dec"></div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doers eiusmod.</p>
               </div>
             </div>
             <div class="col-lg-6 col-sm-6">
@@ -115,31 +114,31 @@
                 <div class="icon">
                   <img src="assets/images/m1.png" alt="discover SEO" class="templatemo-feature">
                 </div>
-                <h4>Discover More on Latest SEO Trends</h4>
+                <h4>เพลง ก่อนที่...</h4>
               </div>
             </div>
             <div class="col-lg-6 col-sm-6">
               <div class="service-item">
                 <div class="icon">
-                  <img src="assets/images/services-02.jpg" alt="data analysis" class="templatemo-feature">
+                  <img src="assets/images/m2.png" alt="data analysis" class="templatemo-feature">
                 </div>
-                <h4>Real-Time Big Data Analysis</h4>
+                <h4>เพลง เป็นเพลงเพราะ</h4>
               </div>
             </div>
             <div class="col-lg-6 col-sm-6">
               <div class="service-item">
                 <div class="icon">
-                  <img src="assets/images/services-03.jpg" alt="precise data" class="templatemo-feature">
+                  <img src="assets/images/m3.png" alt="precise data" class="templatemo-feature">
                 </div>
-                <h4>Precise Data Analysis &amp; Prediction</h4>
+                <h4>เพลง บอกทีได้ไหม</h4>
               </div>
             </div>
             <div class="col-lg-6 col-sm-6">
               <div class="service-item">
                 <div class="icon">
-                  <img src="assets/images/services-04.jpg" alt="SEO marketing" class="templatemo-feature">
+                  <img src="assets/images/m4.png" alt="SEO marketing" class="templatemo-feature">
                 </div>
-                <h4>SEO Marketing &amp; Social Media</h4>
+                <h4>เพลง โบจจิ</h4>
               </div>
             </div>
           </div>

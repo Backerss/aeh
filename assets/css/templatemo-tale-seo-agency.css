@@ -129,7 +129,7 @@ body {
 }
 
 .templatemo-feature {
-	max-width: 66px; border-radius: 50%;
+	max-width: 50px; border-radius: 10%;
 }
 
 .main-button a {
