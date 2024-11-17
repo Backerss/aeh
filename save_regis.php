@@ -37,7 +37,6 @@ VALUES ('$prefix', '$firstName', '$lastName',
 
 if($conn ->query($sql)===TRUE){
    echo "บันทึกสำเร็จ";  
-   //refresh หน้าเว็บไป index.php 3วิ
    header("refresh:3; url=index.php");   
 }else{
     echo "บันทึกข้อมูลมีปัญหากรุณาติดต่อ Admin";
