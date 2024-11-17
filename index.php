@@ -152,7 +152,7 @@
       <div class="row">
         <div class="col-lg-6">
           <div class="section-heading">
-            <h2><em>แนวเพลง</em></h2>
+            <h2><em>เพลงแนะนำ</em></h2>
             <div class="line-dec"></div>
           </div>
         </div>
@@ -165,22 +165,22 @@
             <div class="item">
               <img src="assets/images/p1.png" alt="">
               <div class="down-content">
-                <h4>เพลงป๊อบ(Pop)</h4>
+                <h4>4EVE - คิดคิด ( Let me know )</h4>
                 <a href="https://youtu.be/17hA48rfoG8?si=Q1COEZd77yh8PdBz"><i class="fa fa-link"></i></a>
               </div>
             </div>
             <div class="item">
               <img src="assets/images/p2.png" alt="">
               <div class="down-content">
-                <h4>เพลงร็อค(Rock)</h4>
-                <a href="#"><i class="fa fa-link"></i></a>
+                <h4>ดีแต่ปาก - Big Ass</h4>
+                <a href="https://youtu.be/l7r3nPuO-wc?si=_LNEEETS7_vv4GKJ"><i class="fa fa-link"></i></a>
               </div>
             </div>
             <div class="item">
-              <img src="assets/images/projects-03.jpg" alt="">
+              <img src="assets/images/p3.png" alt="">
               <div class="down-content">
-                <h4>Best Responsive Website Layouts</h4>
-                <a href="#"><i class="fa fa-link"></i></a>
+                <h4>Moving and Cut - บ่า</h4>
+                <a href="https://youtu.be/jHkT6NcHs4g?si=zFpfSo0NMuOqDTmB"><i class="fa fa-link"></i></a>
               </div>
             </div>
             <div class="item">
