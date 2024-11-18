@@ -24,34 +24,6 @@
   </div>
   <!-- ***** Preloader End ***** -->
 
-  <!-- ***** Pre-Header Area Start ***** -->
-  <div class="pre-header">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-sm-9">
-          <div class="left-info">
-            <ul>
-              <li><a href="#"><i class="fa fa-phone"></i>+000 1234 5678</a></li>
-              <li><a href="#"><i class="fa fa-envelope"></i>infocompany@email.com</a></li>
-              <li><a href="#"><i class="fa fa-map-marker"></i>St. London 54th Bull</a></li>
-            </ul>
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-3">
-          <div class="social-icons">
-            <ul>
-              <li><a href="#"><i class="fab fa-facebook"></i></a></li>
-              <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-              <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
-              <li><a href="#"><i class="fab fa-google-plus"></i></a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- ***** Pre-Header Area End ***** -->
-
   <!-- ***** Header Area Start ***** -->
   <header class="header-area header-sticky">
     <div class="container">
@@ -172,7 +144,7 @@
             <div class="item">
               <img src="assets/images/p2.png" alt="">
               <div class="down-content">
-                <h4>ดีแต่ปาก - Big Ass</h4>
+                <h4>Big Ass - ดีแต่ปาก </h4>
                 <a href="https://youtu.be/l7r3nPuO-wc?si=_LNEEETS7_vv4GKJ"><i class="fa fa-link"></i></a>
               </div>
             </div>
@@ -184,24 +156,24 @@
               </div>
             </div>
             <div class="item">
-              <img src="assets/images/projects-04.jpg" alt="">
+              <img src="assets/images/p5.png" alt="">
               <div class="down-content">
-                <h4>HTML CSS Layouts for your websites</h4>
-                <a href="#"><i class="fa fa-link"></i></a>
+                <h4>FREEHAND - รสหวาน</h4>
+                <a href="https://youtu.be/q3bWhsg9HH8?si=8uhWEMSiO7jEL2k2"><i class="fa fa-link"></i></a>
               </div>
             </div>
             <div class="item">
-              <img src="assets/images/projects-02.jpg" alt="">
+              <img src="assets/images/p6.png" alt="">
               <div class="down-content">
-                <h4>Bootstrap 5 Themes for Free</h4>
-                <a href="#"><i class="fa fa-link"></i></a>
+                <h4>Phumin - หล่นหายระหว่างทาง</h4>
+                <a href="https://youtu.be/jHiW2LsCz3I?si=pjcS9HConZgdXgTr"><i class="fa fa-link"></i></a>
               </div>
             </div>
             <div class="item">
-              <img src="assets/images/projects-03.jpg" alt="">
+              <img src="assets/images/p4.png" alt="">
               <div class="down-content">
-                <h4>Mobile Friendly Website Layouts</h4>
-                <a href="#"><i class="fa fa-link"></i></a>
+                <h4>Autta - ประกายฟ้า</h4>
+                <a href="https://youtu.be/ROj0y2bKQNM?si=B9J7Zm8oS9G43ah7"><i class="fa fa-link"></i></a>
               </div>
             </div>
           </div>
