@@ -14,8 +14,10 @@ $(document).ready(function () {
         let answer;
         if (i === 7 || i === 8) {
           answer = $(`input[name="q${i}"]`).val();
+          result.push(answer);
         } else {
           answer = $(`input[name="q${i}"]:checked`).val();
+          result.push(answer);
         }
         if (!answer) question.push(i); // เก็บข้อที่ไม่ได้ตอบ
   
@@ -84,6 +86,16 @@ $(document).ready(function () {
             icon: 'info',
             confirmButtonText: 'ตกลง'
           }).then(() => {
+            $.ajax({
+                url: "insertQuiz.php",
+                type: "Post",
+                data: {
+                    answer: result,
+                },
+                success: function (respone) {
+                    console.log(respone);
+                }
+                });
             // กลับไปที่หน้า index.php
             window.location.href = "index.php";
           });
