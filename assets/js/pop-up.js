@@ -87,7 +87,7 @@ $(document).ready(function () {
             confirmButtonText: 'ตกลง'
           }).then(() => {
             $.ajax({
-                url: "insertQuiz.php",
+                url: "InsertQuiz.php",
                 type: "Post",
                 data: {
                     answer: result,
