@@ -87,7 +87,7 @@
             </div>
             <div class="row mb-3">
                 <div class="col-sm-2 offset-sm-2">
-                    <button type="submit" class="btn btn-primary">Submit</button>
+                <input class="submit" type="submit" id="submit-btn" value="submit" />
                 </div>
             </div>
         </form>

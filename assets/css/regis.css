@@ -5,10 +5,10 @@
 }
 
 body {
-  height: 100vh;
+  height: 100vh; 
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: center; 
+  align-items: center; 
   background: linear-gradient(135deg, #ff9ed5, #a882d0);
   font-family: "Montserrat", sans-serif;
   font-weight: 300;
@@ -16,24 +16,33 @@ body {
 }
 
 .container {
-  max-width: 500px; /* ลดขนาดความกว้างให้เล็กลง */
-  width: 100%; /* ทำให้ responsive */
+  max-width: 500px; 
+  width: 90%; 
   background: #fff;
-  padding: 40px;
-  border-radius: 8px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  padding: 40px; 
+  border-radius: 12px; 
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1); 
+  text-align: center; 
 }
 
 h1 {
-  text-align: center;
+  text-align: center; 
   color: #674188;
   font-weight: 500;
-  margin-bottom: 30px;
+  margin-bottom: 20px; 
+}
+
+p {
+  font-size: 1rem; 
+  color: #555; 
+  margin-bottom: 20px; 
+  line-height: 1.5; 
 }
 
 .form-label {
   font-weight: 500;
   color: #674188;
+  margin-bottom: 10px; 
 }
 
 .form-control, .form-select {
@@ -41,6 +50,7 @@ h1 {
   border: 1px solid #ddd;
   padding: 10px;
   transition: border-color 0.3s;
+  width: 100%; 
 }
 
 .form-control:focus, .form-select:focus {
@@ -49,13 +59,13 @@ h1 {
 }
 
 textarea.form-control {
-  resize: vertical;
+  resize: vertical; 
 }
 
 .btn-primary {
   background-color: #674188;
   border-color: #674188;
-  padding: 10px 20px;
+  padding: 12px 24px; 
   font-weight: bold;
   font-size: 1.1em;
   transition: background-color 0.3s, box-shadow 0.3s;
@@ -76,11 +86,6 @@ textarea.form-control {
   margin-bottom: 1.5rem !important;
 }
 
-.col-form-label {
-  display: flex;
-  align-items: center;
-}
-
 textarea {
   color: #333;
 }
@@ -98,3 +103,19 @@ a:hover {
   color: #ff69b4;
   text-decoration: underline;
 }
+
+.submit {
+    border: none;
+    border-radius: 100vh;
+    padding: 0.8rem 1.5rem;
+    background: #9505b6;
+    color: #fff;
+    font-family: inherit;
+    text-transform: uppercase;
+    font-size: 1rem;
+    font-weight: 300;
+    display: block;
+    margin: 1rem auto 4rem auto;
+    cursor: pointer;
+    transition: transform 200ms ease, box-shadow 200ms ease;
+  }
